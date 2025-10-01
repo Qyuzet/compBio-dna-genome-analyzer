@@ -135,5 +135,6 @@ The notebook provides detailed analysis including:
 
 ## Author
 
+Riki Awal Syahputra
 Computational Biology Assignment - SCIE6062001  
 Odd Semester 2025-2026 AY
